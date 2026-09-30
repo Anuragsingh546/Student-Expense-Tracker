@@ -44,5 +44,5 @@ docs/screenshots/  screenshots for the report
 Register, log in, choose `1` to add an expense (amount, category, date, description), `6` for a summary, `7` for a monthly report (`YYYY-MM`), `8` to export.
 
 ## Author
-Abhay Pratap Singh Pal
-26MIM10004
+Anurag Singh 
+26MIM10011
